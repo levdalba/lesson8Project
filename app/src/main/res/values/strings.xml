@@ -21,4 +21,104 @@
     <string name="day5">Day 5</string>
     <string name="title5">Tactics: The Fork</string>
     <string name="desc5">A fork is when one of your pieces attacks two or more enemy pieces simultaneously.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Piece Movement: The Bishop</string>
+    <string name="desc6">Bishops move diagonally as far as they want. You start with one light-squared and one dark-squared bishop.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Piece Movement: The Rook</string>
+    <string name="desc7">Rooks move horizontally and vertically. They are powerful pieces, especially in the endgame.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Piece Movement: The Queen</string>
+    <string name="desc8">The Queen is the most powerful piece, combining the movement of both the Rook and the Bishop.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Piece Movement: The King</string>
+    <string name="desc9">The King moves one square in any direction. Protecting him is the most important goal of the game.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Special Move: Castling</string>
+    <string name="desc10">Castling gets your King to safety and brings your Rook into the game. Do it early!</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Opening Principle: Development</string>
+    <string name="desc11">Don\'t move the same piece twice in the opening. Get all your minor pieces out first.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Tactics: The Pin</string>
+    <string name="desc12">A pin restricts a piece from moving because it would expose a more valuable piece behind it.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Tactics: The Skewer</string>
+    <string name="desc13">Similar to a pin, but the more valuable piece is in front. It moves, and the piece behind is lost.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Tactics: Discovered Attack</string>
+    <string name="desc14">Moving a piece to reveal an attack from a piece standing behind it. Often very deadly.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Concept: Zugzwang</string>
+    <string name="desc15">A situation where any move a player makes weakens their position. "Compulsion to move."</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Checkmate: Smothered Mate</string>
+    <string name="desc16">When a King is surrounded by his own pieces and cannot escape a Knight\'s check.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Checkmate: Back Rank Mate</string>
+    <string name="desc17">Checkmating the King on the back row because his own pawns block his escape.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Special Move: Promotion</string>
+    <string name="desc18">When a pawn reaches the other side of the board, it can become a Queen, Rook, Bishop, or Knight.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Draw: Stalemate</string>
+    <string name="desc19">If the King is not in check but has no legal moves, the game is a draw. Watch out for this!</string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Concept: The Exchange</string>
+    <string name="desc20">Winning a Rook for a Knight or Bishop is called "winning the exchange."</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Concept: Tempo</string>
+    <string name="desc21">In chess, time is measured in moves (tempo). Gaining a tempo means forcing the opponent to waste a move.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Opening: The Gambit</string>
+    <string name="desc22">Sacrificing material (usually a pawn) in the opening to gain an advantage in position or development.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Structure: Fianchetto</string>
+    <string name="desc23">Developing the Bishop to the long diagonal (b2/g2 or b7/g7) to control the center from a distance.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Strategy: Middlegame Plan</string>
+    <string name="desc24">After the opening, form a plan based on pawn structure, piece activity, and king safety.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Endgame: The Opposition</string>
+    <string name="desc25">Using your King to block the enemy King from advancing. Crucial in King and Pawn endgames.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Endgame: King and Pawn</string>
+    <string name="desc26">If you are ahead by one pawn, try to exchange pieces (not pawns) to simplify into a winning endgame.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Technique: Lucena Position</string>
+    <string name="desc27">A key method for winning Rook and Pawn endgames. "Building a bridge" for your King.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Technique: Philidor Position</string>
+    <string name="desc28">A defensive setup to draw a Rook and Pawn endgame against a superior opponent.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Improvement: Analyze Games</string>
+    <string name="desc29">Review your own games, especially losses, to understand your mistakes and learn from them.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Mindset: Have Fun</string>
+    <string name="desc30">Chess is a lifelong journey. Enjoy the process of learning and playing!</string>
 </resources>
