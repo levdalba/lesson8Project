@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">30 Days of Chess</string>
+    <string name="scroll_up">Scroll to top</string>
+    
+    <string name="day1">Day 1</string>
+    <string name="title1">Learn the Board</string>
+    <string name="desc1">The board has 64 squares. "Light on right" is the golden rule for setting it up correctly.</string>
+    
+    <string name="day2">Day 2</string>
+    <string name="title2">Piece Movement: The Pawn</string>
+    <string name="desc2">Pawns move forward but capture diagonally. Don\'t forget about En Passant!</string>
+    
+    <string name="day3">Day 3</string>
+    <string name="title3">Piece Movement: The Knight</string>
+    <string name="desc3">The Knight moves in an L-shape and is the only piece that can jump over others.</string>
+    
+    <string name="day4">Day 4</string>
+    <string name="title4">Control the Center</string>
+    <string name="desc4">The 4 central squares are critical. Controlling them gives your pieces mobility.</string>
+    
+    <string name="day5">Day 5</string>
+    <string name="title5">Tactics: The Fork</string>
+    <string name="desc5">A fork is when one of your pieces attacks two or more enemy pieces simultaneously.</string>
+</resources>
